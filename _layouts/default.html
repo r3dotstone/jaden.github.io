@@ -13,13 +13,23 @@
     <![endif]-->
     {% include head-custom.html %}
   </head>
+    <style>
+    a {
+     color: red;
+    }
+    </style>
   <body>
       <div class="wrapper">
           <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
-        <p> testing new line in header with [a link to another page, enabled](./testNewPage.md) </p>
-        <p> using the a syntax <a href= "https://r3dotstone.github.io/portfolio/testNewPage.html"> link to another page </a> </p>
+
+        <p> <a href= "https://r3dotstone.github.io/portfolio/.html"> Resume </a> </p>
+        <p> <a href= "https://r3dotstone.github.io/portfolio/testNewPage.html"> Robotics Systems and Design </a> </p>
+        <p> <a href= "https://r3dotstone.github.io/portfolio/testNewPage.html"> Solid State Circuits and Design </a> </p>
+        <p> <a href= "https://r3dotstone.github.io/portfolio/testNewPage.html"> Personal Projects </a> </p>
+        <p> <a href= "https://r3dotstone.github.io/portfolio/testNewPage.html"> High School Endeavors </a> </p>
+
         <ul>
           {% if site.show_downloads %}
             <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
