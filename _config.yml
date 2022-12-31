@@ -1,3 +1,6 @@
 title: Jaden's Portfolio
 description: a portfolio for jaden
 theme: jekyll-theme-dinky
+relative_links:
+  enabled:     true
+  collections: false
