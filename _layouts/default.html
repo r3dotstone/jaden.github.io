@@ -11,18 +11,28 @@
     <!--[if lt IE 9]>
         <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
-    {% include head-custom.html %}
-  </head>
-
-  <body>
-
-      <div class="wrapper">
-          <header>
-        <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
-        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+        {% include head-custom.html %}
+    </head>
+    
+    <body>
         
-        <ul>
-            {% if site.show_downloads %}
+        <div class="wrapper">
+            <style>
+                a {
+                    color: rgb(68, 0, 255);
+                }
+        </style>
+          <header>
+              <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
+              <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+              <p> <a href= "https://r3dotstone.github.io/portfolio/resume.html"> Resume </a> </p>
+              <p> <a href= "https://r3dotstone.github.io/portfolio/ece322.html"> Solid State Circuits and Design </a> </p>
+              <p> <a href= "https://r3dotstone.github.io/portfolio/es302.html"> Robotics Systems and Design </a> </p>
+              <p> <a href= "https://r3dotstone.github.io/portfolio/highschool.html"> High School Endeavors </a> </p>
+              <p> <a href= "https://r3dotstone.github.io/portfolio/personalprojects.html"> Personal Projects </a> </p>
+              
+              <ul>
+                  {% if site.show_downloads %}
             <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
             <li class="download"><a class="buttons" href="{{ site.github.tar_url }}">Download TAR</a></li>
             {% endif %}
@@ -40,18 +50,8 @@
         {% endif %}
     </header>
     
-    <style>
-    a {
-        color: rgb(68, 0, 255);
-    }
-    </style>
     <section>
         {{ content }}
-        <p> <a href= "https://r3dotstone.github.io/portfolio/resume.html"> Resume </a> </p>
-        <p> <a href= "https://r3dotstone.github.io/portfolio/ece322.html"> Solid State Circuits and Design </a> </p>
-        <p> <a href= "https://r3dotstone.github.io/portfolio/es302.html"> Robotics Systems and Design </a> </p>
-        <p> <a href= "https://r3dotstone.github.io/portfolio/highschool.html"> High School Endeavors </a> </p>
-        <p> <a href= "https://r3dotstone.github.io/portfolio/personalprojects.html"> Personal Projects </a> </p>
     </section>
     
     <footer>
