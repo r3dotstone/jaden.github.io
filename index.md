@@ -4,3 +4,4 @@
 * this is fun
 * will I actually commit this?
 ...maybe
+* a link: [a link to another page, enabled](./testNewPage.md) 
