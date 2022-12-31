@@ -3,6 +3,11 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <style>
+    a {
+        color: red;
+    }
+    </style>
 
 {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -21,11 +26,6 @@
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
-        <style>
-        a {
-            color: red;
-        }
-        </style>
         <p> <a href= "https://r3dotstone.github.io/portfolio/resume.html"> Resume </a> </p>
         <p> <a href= "https://r3dotstone.github.io/portfolio/ece322.html"> Solid State Circuits and Design </a> </p>
         <p> <a href= "https://r3dotstone.github.io/portfolio/es302.html"> Robotics Systems and Design </a> </p>
