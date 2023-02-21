@@ -1,5 +1,3 @@
-layout: testPage
-title: "PAGE-TITLE"
+layout: page
+title: "test page"
 permalink: /testpage
-
-what will happen?
