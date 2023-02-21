@@ -1,3 +1,3 @@
 layout: page
 title: "test page"
-permalink: /testpage
+permalink: https://r3dotstone.github.io/portfolio/testpage
