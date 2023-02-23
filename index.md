@@ -1,6 +1,6 @@
 # About Me
 
-(./media/Headshot.jpg)
+![headshot](./media/Headshot.jpg)
 
 Hi! My name is Jaden Stone. I am an enthusiastic maker who wants to use engineering to do good things. I am just as comfortable in the thoeretical world as I am in the shop. 
 
