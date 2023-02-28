@@ -23,9 +23,6 @@ permalink: /classprojects/
     </embed>
 </object>
 
-
-<embed style="max-height: 300px; width: 400px;" src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://r3dotstone.github.io/portfolio/media/ES302_Stone_FinalPoster.pdf">
-
 <video style="max-height: 300px; width: auto;" controls>
     <source src="https://r3dotstone.github.io/portfolio/media/G__.shortcut-targets-by-id_1_PeZcmc5YVnmj6_6Aui8IlOqeOcDBKTt_ES302_Stone_FinalProject_WeBots_worlds_highwayOvertake_mod.wbt (FinalProject_WeBots) - Webots R2022a 2023-02-24 10-25-02.mp4" type="video/mp4">
     Your browser does not support the video tag.
