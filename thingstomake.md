@@ -1,7 +1,7 @@
 ---
 layout: default
-title: test
-permalink: /test/
+title: Things to Make
+permalink: /Things to Make/
 ---
 
 ## Here Are Some Things That I Want to Make

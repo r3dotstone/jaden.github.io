@@ -1,7 +1,7 @@
 ---
 layout: default
-title: test
-permalink: /test/
+title: Things I've made
+permalink: /thingsmade/
 ---
 
 <p> <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/box.jpg" alt="Salt Cellar"> </p>
