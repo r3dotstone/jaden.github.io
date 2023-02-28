@@ -17,18 +17,6 @@ permalink: /thingsmade/
 
 | <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaFront.png" alt="Firewood Rack"> | <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec1.png" alt="Firewood Rack"> | <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec2.png" alt="Firewood Rack"> |
 
-<div class="row">
-  <div class="column">
-    <img src="https://r3dotstone.github.io/portfolio/media/genevaFront.png" alt="asdfasdf" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://r3dotstone.github.io/portfolio/media/genevaSec1.png" alt="asdfasdf" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://r3dotstone.github.io/portfolio/media/genevaSec2.png" alt="asdfasdf" style="width:100%">
-  </div>
-</div> 
-
 ### Moped Modifications
 ### FPV Drone
 ### This Website
