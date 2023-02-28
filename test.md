@@ -1,7 +1,7 @@
 ---
 layout: default
 title: test
-permalink: /testhtml/
+permalink: /test/
 ---
 
 ## Here are Some of the Cool Things that I've Done in my Classes
