@@ -13,6 +13,19 @@ permalink: /thingsmade/
 <p> <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/box.jpg" alt="Salt Cellar"> </p>
 
 ### Geneva Drive
+<p> <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaIso.png" alt="Salt Cellar"> </p>
+
+<div class="row">
+  <div class="column">
+    <img src="https://r3dotstone.github.io/portfolio/media/genevaFront.png" alt="asdfasdf" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://r3dotstone.github.io/portfolio/media/genevaSec1.png" alt="asdfasdf" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://r3dotstone.github.io/portfolio/media/genevaIso.png" alt="asdfasdf" style="width:100%">
+  </div>
+</div> 
 
 ### Moped Modifications
 ### FPV Drone
