@@ -15,7 +15,7 @@ permalink: /thingsmade/
 ### Geneva Drive
 <p> <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaIso.png" alt="Salt Cellar"> </p>
 
-<img src="https://r3dotstone.github.io/portfolio/media/genevaFront.png" alt="asdfasdf" style="width:100%"> <img src="https://r3dotstone.github.io/portfolio/media/genevaSec1.png" alt="asdfasdf" style="width:100%"> <img src="https://r3dotstone.github.io/portfolio/media/genevaSec2.png" alt="asdfasdf" style="width:100%">
+| <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaFront.png" alt="Firewood Rack"> | <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec1.png" alt="Firewood Rack"> | <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec2.png" alt="Firewood Rack"> |
 
 <div class="row">
   <div class="column">
