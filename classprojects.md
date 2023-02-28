@@ -17,7 +17,7 @@ permalink: /classprojects/
 
 #### Final Project: Simulating a User-Demand Blended Power Hybrid
 
-<object style="height: 300px; width: 400px;" data="https://r3dotstone.github.io/portfolio/media/ES302_Stone_FinalPoster.pdf" type="application/pdf" >
+<object style="height: 450px; width: 600px;" data="https://r3dotstone.github.io/portfolio/media/ES302_Stone_FinalPoster.pdf" type="application/pdf" >
     <embed src="https://r3dotstone.github.io/portfolio/media/ES302_Stone_FinalPoster.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://r3dotstone.github.io/portfolio/media/ES302_Stone_FinalPoster.pdf">Download PDF</a>.</p>
     </embed>
