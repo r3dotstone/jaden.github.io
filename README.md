@@ -1,2 +1,3 @@
 # Jaden's Portfolio
-This is a collection of work and projects that I want to show the world.
+
+This website is a place for me to document projects and ideas in a way for other people to see them. It is continually evolving and improving as I learn learn more, make more, and get better at building a website.

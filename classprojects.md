@@ -1,7 +1,7 @@
 ---
 layout: default
-title: test
-permalink: /test/
+title: Class Projects
+permalink: /classprojects/
 ---
 
 ## Here are Some of the Cool Things that I've Done in my Classes
