@@ -41,3 +41,6 @@ permalink: /classprojects/
 
 <img src="https://r3dotstone.github.io/portfolio/media/CIRC2.jpeg" height="300" >
 <p> Soldering on the Back of the Board </p>
+
+### CE181: Cities
+final proj
