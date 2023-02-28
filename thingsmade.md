@@ -8,7 +8,7 @@ permalink: /thingsmade/
 ### Geneva Drive
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaIso.png" alt="Salt Cellar">
 
-| <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaFront.png" alt="Firewood Rack"> | <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec1.png" alt="Firewood Rack"> | <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec2.png" alt="Firewood Rack"> |
+| <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaFront.png" alt="Firewood Rack"> | <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec1.png" alt="Firewood Rack"> | <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec2.png" alt="Firewood Rack"> |
 
 ### Suped-Up Moped
 Here is my moped before modifications:
@@ -24,20 +24,21 @@ Here is my moped in progress and after modifications:
     <source src="https://r3dotstone.github.io/portfolio/media/Moped/mopedAfter.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
+
 Modifications include:
--Ported cylinder
--Ported, single-ring piston
--High compression head
--Expansion chamber exhaust
--New case to accomodate reed induction (replacing piston port)
--High-flow air filter
--CDI ignition (replacing points)
--Rejetting
--Midrange-tuned throttle slide
--Pull-cord start
--More rigid and better-damping fork
--Simplification and replacment of wiring harness
--...and many more small changes
+- Ported cylinder
+- Ported, single-ring piston
+- High compression head
+- Expansion chamber exhaust
+- New case to accomodate reed induction (replacing piston port)
+- High-flow air filter
+- CDI ignition (replacing points)
+- Rejetting
+- Midrange-tuned throttle slide
+- Pull-cord start
+- More rigid and better-damping fork
+- Simplification and replacment of wiring harness
+- ...and many more small changes
 
 ### Electric Tractor (failure)
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractor1.jpeg" alt="Tractor">
