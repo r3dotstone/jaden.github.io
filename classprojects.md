@@ -49,9 +49,9 @@ permalink: /classprojects/
     </embed>
 </object>
 
-<object style="height: 800px; width: 600px;" data="https://r3dotstone.github.io/portfolio/media/CitiesFinalPresentation.pdf" type="application/pdf" >
-    <embed src="https://r3dotstone.github.io/portfolio/media/CitiesFinalPresentation.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://r3dotstone.github.io/portfolio/media/CitiesFinalPresentation.pdf"> Download PDF</a>.</p>
+<object style="height: 800px; width: 600px;" data="https://r3dotstone.github.io/portfolio/media/CitiesFinalPaperFD_04.29.pdf" type="application/pdf" >
+    <embed src="https://r3dotstone.github.io/portfolio/media/CitiesFinalPaperFD_04.29.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://r3dotstone.github.io/portfolio/media/CitiesFinalPaperFD_04.29.pdf"> Download PDF</a>.</p>
     </embed>
 </object>
 
@@ -62,8 +62,8 @@ permalink: /classprojects/
     </embed>
 </object>
 
-<object style="height: 800px; width: 600px;" data="https://r3dotstone.github.io/portfolio/media/PolicyPresentation.pdf" type="application/pdf" >
-    <embed src="https://r3dotstone.github.io/portfolio/media/PolicyPresentation.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://r3dotstone.github.io/portfolio/media/PolicyPresentation.pdf"> Download PDF</a>.</p>
+<object style="height: 800px; width: 600px;" data="https://r3dotstone.github.io/portfolio/media/PolicyBrief.pdf" type="application/pdf" >
+    <embed src="https://r3dotstone.github.io/portfolio/media/PolicyBrief.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://r3dotstone.github.io/portfolio/media/PolicyBrief.pdf"> Download PDF</a>.</p>
     </embed>
 </object>
