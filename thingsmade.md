@@ -14,23 +14,17 @@ permalink: /thingsmade/
 ### Suped-Up Moped
 Here is my moped before modifications:
 
-<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedBefore.jpg" >
-
-<video style="max-height: 300px; width: auto;" controls >
+| <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedBefore.jpg" > | <video style="max-height: 300px; width: auto;" controls >
     <source src="https://r3dotstone.github.io/portfolio/media/Moped/mopedBefore_CUT.mp4" type="video/mp4">
     Your browser does not support the video tag.
-</video>
+</video> |
 
 Here is my moped in progress and after modifications:
 
-<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedMotor1.jpg" >
-
-<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedMods1.jpg" >
-
-<video style="max-height: 300px; width: auto;" controls>
+| <img style="max-width: auto; height: 300px; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedMotor1.jpg" > | <img style="max-width: auto; height: 300px; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedMods1.jpg" > | <video style="max-height: 300px; width: auto;" controls>
     <source src="https://r3dotstone.github.io/portfolio/media/Moped/mopedAfter.mp4" type="video/mp4">
     Your browser does not support the video tag.
-</video>
+</video> |
 
 Modifications include:
 - Ported cylinder
@@ -51,9 +45,7 @@ Modifications include:
 
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractor1.jpg" >
 
-<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorBox1.jpg" >
-
-<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorCockpit2.jpg" >
+| <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorBox1.jpg" > | <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorCockpit2.jpg" > |
 
 insert CAD images
 
