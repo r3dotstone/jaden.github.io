@@ -8,18 +8,24 @@ permalink: /thingsmade/
 ### Geneva Drive
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaIso.png" >
 
-| <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaFront.png"> | <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec1.png" > | <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec2.png" > |
+| <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaFront.png" > | <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec1.png" > | <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec2.png" > |
 
 ### Suped-Up Moped
 Here is my moped before modifications:
+
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedBefore.JPG" >
-<video style="max-height: 300px; width: auto;" controls>
+
+<video style="max-height: 300px; width: auto;" controls >
     <source src="https://r3dotstone.github.io/portfolio/media/Moped/mopedBefore_CUT.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
+
 Here is my moped in progress and after modifications:
+
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedMotor1.jpeg" >
+
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedMods1.jpeg" >
+
 <video style="max-height: 300px; width: auto;" controls>
     <source src="https://r3dotstone.github.io/portfolio/media/Moped/mopedAfter.mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -41,15 +47,20 @@ Modifications include:
 - ...and many more small changes
 
 ### Electric Tractor (failure)
+
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractor1.jpeg" >
+
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorBox1.jpeg" >
+
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorCockpit2.JPG" >
 
 insert CAD images
 
 ### Custom Firewood Rack to Fit in a Small Space
+
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/rack.jpg" >
 
 
 ### Wooden Salt Cellar
+
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/box.jpg"                >
