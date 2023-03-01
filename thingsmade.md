@@ -6,6 +6,7 @@ permalink: /thingsmade/
 ## Here Are Some Things That I've Made
 
 ### Geneva Drive
+
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaIso.png" >
 
 | <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaFront.png" > | <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec1.png" > | <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec2.png" > |
@@ -13,7 +14,7 @@ permalink: /thingsmade/
 ### Suped-Up Moped
 Here is my moped before modifications:
 
-<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedBefore.JPG" >
+<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedBefore.jpg" >
 
 <video style="max-height: 300px; width: auto;" controls >
     <source src="https://r3dotstone.github.io/portfolio/media/Moped/mopedBefore_CUT.mp4" type="video/mp4">
@@ -22,9 +23,9 @@ Here is my moped before modifications:
 
 Here is my moped in progress and after modifications:
 
-<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedMotor1.jpeg" >
+<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedMotor1.jpg" >
 
-<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedMods1.jpeg" >
+<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedMods1.jpg" >
 
 <video style="max-height: 300px; width: auto;" controls>
     <source src="https://r3dotstone.github.io/portfolio/media/Moped/mopedAfter.mp4" type="video/mp4">
@@ -48,11 +49,11 @@ Modifications include:
 
 ### Electric Tractor (failure)
 
-<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractor1.jpeg" >
+<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractor1.jpg" >
 
-<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorBox1.jpeg" >
+<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorBox1.jpg" >
 
-<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorCockpit2.JPG" >
+<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorCockpit2.jpg" >
 
 insert CAD images
 
