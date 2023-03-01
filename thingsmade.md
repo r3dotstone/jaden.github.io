@@ -52,4 +52,4 @@ insert CAD images
 
 
 ### Wooden Salt Cellar
-<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/box.jpg" >
+<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/box.jpg"                >
