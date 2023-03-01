@@ -43,4 +43,27 @@ permalink: /classprojects/
 <p> Soldering on the Back of the Board </p>
 
 ### CE181: Cities
-final proj
+<object style="height: 450px; width: 600px;" data="https://r3dotstone.github.io/portfolio/media/CitiesFinalPresentation.pdf" type="application/pdf" >
+    <embed src="https://r3dotstone.github.io/portfolio/media/CitiesFinalPresentation.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://r3dotstone.github.io/portfolio/media/CitiesFinalPresentation.pdf"> Download PDF</a>.</p>
+    </embed>
+</object>
+
+<object style="height: 800px; width: 600px;" data="https://r3dotstone.github.io/portfolio/media/CitiesFinalPresentation.pdf" type="application/pdf" >
+    <embed src="https://r3dotstone.github.io/portfolio/media/CitiesFinalPresentation.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://r3dotstone.github.io/portfolio/media/CitiesFinalPresentation.pdf"> Download PDF</a>.</p>
+    </embed>
+</object>
+
+### EGRS251: Introduction to Public Policy
+<object style="height: 450px; width: 600px;" data="https://r3dotstone.github.io/portfolio/media/PolicyPresentation.pdf" type="application/pdf" >
+    <embed src="https://r3dotstone.github.io/portfolio/media/PolicyPresentation.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://r3dotstone.github.io/portfolio/media/PolicyPresentation.pdf"> Download PDF</a>.</p>
+    </embed>
+</object>
+
+<object style="height: 800px; width: 600px;" data="https://r3dotstone.github.io/portfolio/media/PolicyPresentation.pdf" type="application/pdf" >
+    <embed src="https://r3dotstone.github.io/portfolio/media/PolicyPresentation.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://r3dotstone.github.io/portfolio/media/PolicyPresentation.pdf"> Download PDF</a>.</p>
+    </embed>
+</object>
