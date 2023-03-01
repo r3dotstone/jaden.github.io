@@ -8,12 +8,26 @@ permalink: /classprojects/
 
 ### ES302: Robotics Systems and Design
 
-#### Assingment Four: Using a finite state machine to create a lemming robot!
+#### Using a finite state machine to create a lemming robot
 
 <video style="max-height: 300px; width: auto;" controls>
     <source src="https://r3dotstone.github.io/portfolio/media/ES302_A04_2_comped1.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video> 
+
+#### Dijkstra's Algorithm
+
+<video style="max-height: 300px; width: auto;" controls>
+    <source src="https://r3dotstone.github.io/portfolio/media/dijkstras.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+#### Inverse Kinematics
+
+<video style="max-height: 300px; width: auto;" controls>
+    <source src="https://r3dotstone.github.io/portfolio/media/invKin.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 #### Final Project: Simulating a User-Demand Blended Power Hybrid
 

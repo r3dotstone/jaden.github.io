@@ -15,6 +15,6 @@ permalink: /experiences/
 My friend, Conner LaRoque, and I primarily built (along with a small team), while my now-girlfriend coded, a robot for FIRST FRC.
 
 <video style="max-height: 300px; width: auto;" controls>
-    <source src="https://r3dotstone.github.io/portfolio/media/robotVid.mov" type="video/mov">
+    <source src="https://r3dotstone.github.io/portfolio/media/robotVid.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
