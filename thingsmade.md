@@ -7,7 +7,7 @@ permalink: /thingsmade/
 
 ### Geneva Drive
 
-I made this for an activity for ASME during Engineer's Week.
+I designed the packaging of this mechanism to be easily laser cut in large quantities and assembled by people as a fun activity. This was done as ASME's contribution to Lafayette's Engineer's Week and replaced an older design that was too expensive, took much longer to produce, and was difficult for people to build quickely and easily. The design can certainly be improved to require fewer tools, be even more economical with materials, and be use less finicky hardware.
 
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaIso.png" >
 
@@ -47,6 +47,8 @@ Modifications include:
 - ...and many more small changes
 
 ### Electric Tractor (failure)
+
+This project was spearheaded by a senior during the first year that I was involved with ASME at Lafayette. The concept was to retrofit an old ICE tractor with an electric powertrain for use on Lafayette's Farm. This project had precedent, other people had used the same motor and adapting hardware, but out version was engineered to be more safe and easier to operate. I was brought on as a freshman to design the packaging of the system aftrer the electronics had been mostly designed and purshased. The frame is constructed of aluminum extrusion with the sides and interior level made from Garolite. Despite how muhch progress we made, the project was never completed. The ultimate problem was the lack of analysis we had done to ensure the reliability and safety of the battery enclosure, including both structural and electrical stability. If I were to attempt a project like this again, I would use what I have learned in my classes over the last three years to make certain that the tractor and the enclosure could handle the forces and vibrations during use, that weight distribution on the tractor would not lead to poor traction or tipping, and that electrical modules were connected in a safe, ordered, and logical way.
 
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractor1.jpg" >
 

@@ -14,7 +14,7 @@ During the 2022 Lafayette-Lehigh rivalry football game, I was responsible for th
 
 ### High School Robotics
 
-During highschool, my friend, my now-girlfriend, and I resurected our FIRST Robotics Competition team after it hadn't competed for 3 years. Here is a video of our robot working!
+During highschool, my friend, my now-girlfriend, and I resurected our FIRST Robotics Competition team after it hadn't competed for 3 years and had an offical budget of $0. Here is a video of our robot, made from old, spare parts, working! It was designed this way to allow for range and orientation adjustment of the ball-launcher without having to be in a specific spot on the field.
 
 <video style="max-height: 300px; width: auto;" controls>
     <source src="https://r3dotstone.github.io/portfolio/media/robotVid.mp4" type="video/mp4">
