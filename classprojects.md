@@ -8,10 +8,10 @@ permalink: /classprojects/
 
 ### ES302: Robotics Systems and Design
 This course was gave us a broad understanding of the different ways to control a robot. It focussed on real hardware and software integration, meaning that we also learned how to rigosously troubleshoot eratic platforms. Schemes that we implemented include: 
-- procedural control, 
-- finite state machines, 
-- transformation and rotation matrices, 
-- odometry,
+- procedural control
+- finite state machines
+- transformation and rotation matrices
+- odometry
 - quaternions
 - forward and inverse kinematics
 - the jacobian and joint/configuration space
