@@ -5,9 +5,9 @@ permalink: /thingstomake/
 ---
 
 ## Here Are Some Things That I Want to Make
+CAD and descriptions to come!
+### Bike Fork
 
-### Bike fork
+### E-Bike Kit
 
-### E-bike kit
-
-### Climbing pad couch
+### Climbing Pad Couch

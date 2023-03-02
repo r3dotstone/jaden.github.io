@@ -7,11 +7,16 @@ permalink: /thingsmade/
 
 ### Geneva Drive
 
+I made this for an activity for ASME during Engineer's Week.
+
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaIso.png" >
 
 | <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaFront.png" > | <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec1.png" > | <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec2.png" > |
 
 ### Suped-Up Moped
+
+I bought a moped during the summer of 2019, but I couldn't leave it stock.
+
 Here is my moped before modifications:
 
 | <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedBefore.jpg" > | <video style="max-height: 300px; width: auto;" controls >
@@ -47,12 +52,11 @@ Modifications include:
 
 | <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorBox1.jpg" > | <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorCockpit2.jpg" > |
 
-insert CAD images
+CAD images to come
 
 ### Custom Firewood Rack to Fit in a Small Space
 
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/rack.jpg" >
-
 
 ### Wooden Salt Cellar
 

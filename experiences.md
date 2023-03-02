@@ -7,12 +7,14 @@ permalink: /experiences/
 ## Here Are Some Important (or Interesting) Experiences That I Have Had
 
 ### Electric Plane Flyover
-[Check it out](https://www.lehighvalleynews.com/school-news/higher-education/2022-11-19/student-pilots-battery-powered-airplane-over-historic-lehigh-lafayette-football-game)
+
+During the 2022 Lafayette-Lehigh rivalry football game, I was responsible for the live footage shot from an electric plane that my friend, Remy Oktay ([check it out here](https://www.lehighvalleynews.com/school-news/higher-education/2022-11-19/student-pilots-battery-powered-airplane-over-historic-lehigh-lafayette-football-game)). I coordinated the acquisition of the video equipment to transmit the video, set up the equipment on game day, operated the camera, and coordinated the communication of the broadcast crew, film crew, and plane crew. 
 
 <img src="https://r3dotstone.github.io/portfolio/media/flyover1.jpg" height="300" >
 
 ### High School Robotics
-My friend, Conner LaRoque, and I primarily built (along with a small team), while my now-girlfriend coded, a robot for FIRST FRC.
+
+During highschool, my friend, my now-girlfriend, and I resurected our FIRST Robotics Competition team after it hadn't competed for 3 years. Here is a video of our robot working!
 
 <video style="max-height: 300px; width: auto;" controls>
     <source src="https://r3dotstone.github.io/portfolio/media/robotVid.mp4" type="video/mp4">
