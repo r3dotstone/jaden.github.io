@@ -4,7 +4,7 @@
 
 Hi! My name is Jaden Stone. I am an enthusiastic maker who wants to use engineering to do good things. I am just as comfortable in the thoeretical world as I am in the shop. 
 
-I am pursuing a Bachelor of Science in Integrative Engineering, with a focus in robotics at Lafayette College. This means that I take classes in both mechanical and electrical engineering, and tie them together with courses focussed in cross-dicipline systems thinking. In systems courses, I learn about modeling mechanical, electrical, fluid, thermal, and chemical systems using analagous methods (equivalent circuits) and applying those methods to robotics. You can look [here](https://inte.lafayette.edu/) for more details.
+I am pursuing a Bachelor of Science in Integrative Engineering, with a focus in robotics at Lafayette College. This means that I take classes in both mechanical and electrical engineering, and tie them together with courses focussed in interdisciplinary systems thinking. In systems courses, I learn about modeling mechanical, electrical, fluid, thermal, and chemical systems using energetic analogies (equivalent circuits) and applying those methods to robotics. You can look [here](https://inte.lafayette.edu/) for more details.
 
 Outside of my academic life, I'm involved in Engineers Without Borders, Lafayette Motorsports Team (FSAE), and I'm the president of the Lafayette College chapter of the American Society of Mechanical Engineers. I love working with people to bringing ideas to fruition. Being outside is what keeps me going, cycling, rock climbing, hiking, snowboarding, etc. etc..
 
