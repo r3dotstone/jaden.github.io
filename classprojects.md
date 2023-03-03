@@ -14,10 +14,10 @@ This course was gave us a broad understanding of the different ways to control a
 - odometry
 - quaternions
 - forward and inverse kinematics
-- the jacobian and joint/configuration space
+- the Jacobian and joint/configuration space
 - wrench and twist
 - proportional control
-- dijkstra's algorithm
+- Dijkstra's algorithm
 - computer vision and convolution
 - basic simultaneous localization and mapping 
 
@@ -77,17 +77,11 @@ In this class we learned how to both analyze and design circuits constructed of 
 
 ### CE181: Cities
 
-I took this course while studying abroad in Bonn, Germany. It gave us crucial insight into the engineering and it's societal effects within urban areas. I researched and analyzed zoning's effect on people throughout different cities that I visited while in Europe. 
+I took this course while studying abroad in Bonn, Germany. It gave us crucial insight into the engineering and it's societal effects within urban areas. I researched and analyzed zoning's effect on people throughout different cities that I visited while in Europe. Below is the presentation, but you can read the full paper <a href= "https://r3dotstone.github.io/portfolio/media/CitiesFinalPaperFD_04.29.pdf" target="_blank"> here </a>.
 
 <object style="height: 450px; width: 600px;" data="https://r3dotstone.github.io/portfolio/media/CitiesFinalPresentation.pdf" type="application/pdf" >
     <embed src="https://r3dotstone.github.io/portfolio/media/CitiesFinalPresentation.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://r3dotstone.github.io/portfolio/media/CitiesFinalPresentation.pdf"> Download PDF</a>.</p>
-    </embed>
-</object>
-
-<object style="height: 800px; width: 600px;" data="https://r3dotstone.github.io/portfolio/media/CitiesFinalPaperFD_04.29.pdf" type="application/pdf" >
-    <embed src="https://r3dotstone.github.io/portfolio/media/CitiesFinalPaperFD_04.29.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://r3dotstone.github.io/portfolio/media/CitiesFinalPaperFD_04.29.pdf"> Download PDF</a>.</p>
     </embed>
 </object>
 

@@ -12,6 +12,12 @@ During the 2022 Lafayette-Lehigh rivalry football game, I was responsible for th
 
 <img src="https://r3dotstone.github.io/portfolio/media/flyover1.jpg" height="300" >
 
+### Teaching People to Build the Geneva Drive for Engineers Week
+
+After modeling the mechanism and spending hours babying the laser cutter, manufacturing around 100 pieces, I lead a group from a variety of majors to build there own with the kits that we put together. The biggest challenge that we had to overcome was the limited number of tools that we had. This could be solved in the future by designing the hardware to use less of a variety of drivers.
+
+<img src="https://r3dotstone.github.io/portfolio/media/genevaPeople.jpg" height="300" >
+
 ### High School Robotics
 
 During highschool, my friend, my now-girlfriend, and I resurected our FIRST Robotics Competition team after it hadn't competed for 3 years and had an offical budget of $0. Here is a video of our robot, made from old, spare parts, working! It was designed this way to allow for range and orientation adjustment of the ball-launcher without having to be in a specific spot on the field.
