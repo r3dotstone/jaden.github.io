@@ -71,7 +71,13 @@ In this class we learned how to both analyze and design circuits constructed of 
 
 | <img src="https://r3dotstone.github.io/portfolio/media/CIRC1.jpg" height="300" > <br> Components Places on the Board | <img src="https://r3dotstone.github.io/portfolio/media/CIRC2.jpeg" height="300" > <br> Soldering on the Back of the Board |
 
-
+<figure>
+  <img src="https://r3dotstone.github.io/portfolio/media/CIRC1.jpg" height="300" >
+  <figcaption>Components Places on the Board</figcaption>
+</figure> <figure>
+  <img src="https://r3dotstone.github.io/portfolio/media/CIRC2.jpg" height="300" >
+  <figcaption>Soldering on the Back of the Board</figcaption>
+</figure> 
 
 
 ### CE181: Cities
