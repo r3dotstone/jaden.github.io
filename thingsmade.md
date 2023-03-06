@@ -58,6 +58,16 @@ This project was spearheaded by a senior during the first year that I was involv
 
 CAD images to come
 
+### Custom-Built FPV Quadcopter
+
+Towards the end of eighth grade, I became obsessed with FPV quadcopters. From then on, I started researching and buying parts to build my own. The first was from a kit with a frame-integrated integrated PDB and an outdated flight controller. After having some fun with that, I grew frustrated with it's limited tunability and high weight. I went off on my own and started to build on full-carbon, PCB-stacked frames. The packaging for the system became much more difficult, but ultimatly it allowed for a much lighter system with minimal intertia (because most electronics were concentrated near the COG of the frame). While the wiring, soldering, and layout is challenging, I have continued to use this system and optimize it using a open-source flight-control software called Betaflight. Tuning the PID loop on my quadcopters has given me an intuitive sense of the effects of each term and has made learning about the gritty details exciting. Using spare parts from crashed quads, I have also experiemented with making foam-board RC planes. One of the most fun moments in the hobby was flying a single-propellar circle-plane with a rudderon-elevator control surfaces that I made for $3.
+
+<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Drone/drone.jpg" >
+
+<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Drone/drone2.jpg" >
+
+More images to come!
+
 ### Custom Firewood Rack to Fit in a Small Space
 
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/rack.jpg" >

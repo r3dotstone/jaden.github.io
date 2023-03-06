@@ -6,17 +6,18 @@ permalink: /experiences/
 
 ## Here Are Some Important (or Interesting) Experiences That I Have Had
 
-### Electric Plane Flyover
+### Teaching People to Build the Geneva Drive for Engineers Week - 02/23/23
+
+After modeling the mechanism and spending hours babying the laser cutter, manufacturing around 100 pieces, I lead a group from a variety of majors to build there own with the kits that we put together. The biggest challenge that we had to overcome was the limited number of tools that we had. This could be solved in the future by designing the hardware to use less of a variety of drivers.
+
+<img src="https://r3dotstone.github.io/portfolio/media/genevaPeople.jpg" height="300" >
+
+### Electric Plane Flyover - 11/19/22
 
 During the 2022 Lafayette-Lehigh rivalry football game, I was responsible for the live footage shot from an electric plane that my friend, Remy Oktay ([check it out here](https://www.lehighvalleynews.com/school-news/higher-education/2022-11-19/student-pilots-battery-powered-airplane-over-historic-lehigh-lafayette-football-game)). I coordinated the acquisition of the video equipment to transmit the video, set up the equipment on game day, operated the camera, and coordinated the communication of the broadcast crew, film crew, and plane crew. 
 
 <img src="https://r3dotstone.github.io/portfolio/media/flyover1.jpg" height="300" >
 
-### Teaching People to Build the Geneva Drive for Engineers Week
-
-After modeling the mechanism and spending hours babying the laser cutter, manufacturing around 100 pieces, I lead a group from a variety of majors to build there own with the kits that we put together. The biggest challenge that we had to overcome was the limited number of tools that we had. This could be solved in the future by designing the hardware to use less of a variety of drivers.
-
-<img src="https://r3dotstone.github.io/portfolio/media/genevaPeople.jpg" height="300" >
 
 ### High School Robotics
 
