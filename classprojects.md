@@ -71,9 +71,6 @@ In this class we learned how to both analyze and design circuits constructed of 
 
 | <img src="https://r3dotstone.github.io/portfolio/media/CIRC1.jpg" height="300" > <br> Components Places on the Board | <img src="https://r3dotstone.github.io/portfolio/media/CIRC2.jpeg" height="300" > <br> Soldering on the Back of the Board |
 
-<figure> <img src="https://r3dotstone.github.io/portfolio/media/CIRC1.jpg" height="300" > <figcaption>Components Places on the Board</figcaption> </figure> <figure> <img src="https://r3dotstone.github.io/portfolio/media/CIRC2.jpg" height="300" > <figcaption>Soldering on the Back of the Board</figcaption> </figure> 
-
-
 ### CE181: Cities
 
 I took this course while studying abroad in Bonn, Germany. It gave us crucial insight into the engineering and it's societal effects within urban areas. I researched and analyzed zoning's effect on people throughout different cities that I visited while in Europe. Below is the presentation, but you can read the full paper <a href= "https://r3dotstone.github.io/portfolio/media/CitiesFinalPaperFD_04.29.pdf" target="_blank"> here </a>.
