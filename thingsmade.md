@@ -11,7 +11,7 @@ I designed the packaging of this mechanism to be easily laser cut in large quant
 
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaIso.png" >
 
-| <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaFront.png" > | <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec1.png" > | <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec2.png" > |
+<img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaFront.png" > <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec1.png" > <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec2.png" >
 
 ### Suped-Up Moped
 
@@ -54,9 +54,9 @@ This project was spearheaded by a senior during the first year that I was involv
 
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractor1.jpg" >
 
-<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorBox1.jpg" > <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorCockpit2.jpg" > |
+<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorBox1.jpg" > <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorCockpit2.jpg" >
 
-_%%CAD images to come%%_
+%%_CAD images to come_%%
 
 ### Custom-Built FPV Quadcopter
 
@@ -66,7 +66,7 @@ Towards the end of eighth grade, I became obsessed with FPV quadcopters. From th
 
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Drone/plane.jpg" >
 
-_%%Image of my current build to come%%_
+%%_Image of my current build to come_%%
 
 ### Custom Firewood Rack to Fit in a Small Space
 
