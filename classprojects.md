@@ -70,6 +70,7 @@ Spice for the Main Circuit
 Spice Test Bench
 
 <img src="https://r3dotstone.github.io/portfolio/media/CIRC1.jpg" height="300" > <img src="https://r3dotstone.github.io/portfolio/media/CIRC2.jpeg" height="300" >
+
 Components Soldered on a Custom Prototype Board 
 
 ### CE181: Cities
