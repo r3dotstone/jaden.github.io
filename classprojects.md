@@ -64,12 +64,13 @@ My project was to assess the feasability of a parallel blended power compensatio
 In this class we learned how to both analyze and design circuits constructed of low-level solid state components including op-amps, diodes, and transistors. For our final project we were tasked in pairs to design transmitter and reciever circuits to transform audio signals to optical ones and back. Below are snippets of work from that project.
 
 <img src="https://r3dotstone.github.io/portfolio/media/SPICE1.png" height="300" >
-<p> Spice for the Main Circuit </p>
+Spice for the Main Circuit
 
 <img src="https://r3dotstone.github.io/portfolio/media/SPICE2.png" height="300" >
-<p> Spice Test Bench </p>
+Spice Test Bench
 
-| <img src="https://r3dotstone.github.io/portfolio/media/CIRC1.jpg" height="300" > <br> Components Places on the Board | <img src="https://r3dotstone.github.io/portfolio/media/CIRC2.jpeg" height="300" > <br> Soldering on the Back of the Board |
+<img src="https://r3dotstone.github.io/portfolio/media/CIRC1.jpg" height="300" > <img src="https://r3dotstone.github.io/portfolio/media/CIRC2.jpeg" height="300" >
+Components Soldered on a Custom Prototype Board 
 
 ### CE181: Cities
 
