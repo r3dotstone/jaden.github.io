@@ -46,7 +46,7 @@ This course was gave us a broad understanding of the different ways to control a
 
 A parallel course of study during the course was the developement of a research project following the rigorous academic process. We conducted developed search protocol, conducted literature screening, and wrote a literature review of the existing research in the field our proposed final project published on IEEE Xplore. We concluded the semester by tackling our projects either in simulation or physical realization, writing a comprehensive resarch article, and creating a project poster to be presented alongside senior design projects.
 
-My project was to assess the feasability of a parallel blended power compensation (PCBC). This means that I build a simulation of a hybrid car that mixes power directly from an ICE and electric motor such that the electric motor contributes enough power to bring the total power up to an ideal quantity that varies with RPM and throttle position. Please see the poster and video below for more details.
+My project was to assess the feasability of a parallel blended power compensation (PBPC). This means that I build a simulation of a hybrid car that mixes power directly from an ICE and electric motor such that the electric motor contributes enough power to bring the total power up to an ideal quantity that varies with RPM and throttle position. Please see the poster and video below for more details.
 
 <object style="height: 450px; width: 600px;" data="https://r3dotstone.github.io/portfolio/media/ES302_Stone_FinalPoster.pdf" type="application/pdf" >
     <embed src="https://r3dotstone.github.io/portfolio/media/ES302_Stone_FinalPoster.pdf">
