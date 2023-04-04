@@ -19,10 +19,10 @@ I bought a moped during the summer of 2019, but I couldn't leave it stock.
 
 _Here is my moped before modifications:_
 
-| <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedBefore.jpg" > | <video style="max-height: 300px; width: auto;" controls >
+<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedBefore.jpg" > <video style="max-height: 300px; width: auto;" controls >
     <source src="https://r3dotstone.github.io/portfolio/media/Moped/mopedBefore_CUT.mp4" type="video/mp4">
     Your browser does not support the video tag.
-</video> |
+</video>
 
 _Here is my moped in progress and after modifications:_
 
