@@ -54,7 +54,10 @@ This project was spearheaded by a senior during the first year that I was involv
 
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractor1.jpg" >
 
-<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorBox1.jpg" > <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorCockpit2.jpg" >
+<p float="left">
+  <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorBox1.jpg" >
+  <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorCockpit2.jpg" >
+</p>
 
 %%_CAD images to come_%%
 
