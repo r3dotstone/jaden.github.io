@@ -7,7 +7,7 @@ permalink: /thingsmade/
 
 ### Geneva Drive
 
-I designed the packaging of this mechanism to be easily laser cut in large quantities and assembled by people as a fun activity. This was done as ASME's contribution to Lafayette's Engineer's Week and replaced an older design that was too expensive, took much longer to produce, and was difficult for people to build quickely and easily. The design can certainly be improved to require fewer tools, be even more economical with materials, and be use less finicky hardware.
+I designed the packaging of this mechanism to be easily laser cut in large quantities and assembled by people as a fun activity. This was done as ASME's contribution to Lafayette's Engineer's Week and replaced an older design that was too expensive, took much longer to produce, and was difficult for people to build quickely and easily. The design can certainly be improved to require fewer tools, be even more economical with materials, and use less finicky hardware.
 
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaIso.png" >
 
@@ -64,9 +64,9 @@ Towards the end of eighth grade, I became obsessed with FPV quadcopters. From th
 
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Drone/drone.jpg" > <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Drone/drone2.jpg" >
 
-<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Drone/plane.jpg" >
+<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Drone/drone_top.jpg" > <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Drone/drone_side.jpg" >
 
-%%_Image of my current build to come_%%
+<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Drone/plane.jpg" >
 
 ### Custom Firewood Rack to Fit in a Small Space
 
@@ -78,6 +78,6 @@ Towards the end of eighth grade, I became obsessed with FPV quadcopters. From th
 
 ### Handmade Roman Scale Armor
 
-I made this as a final project for my eigth grade Latin class. Every scale was hand-cut from sheets of copper and peened into a dome in my garage, using the head of a sledge hammer as an anvil. This project has made for some exciting moments in Nature of Materials (ES231) when we learned about obstacles to dislocation motion and work-hardening.
+I made this as a final project for my eighth grade Latin class. Every scale was hand-cut from sheets of copper and peened into a dome in my garage, using the head of a sledge hammer as an anvil. This project has made for some exciting moments in Nature of Materials (ES231) when we learned about obstacles to dislocation motion and work-hardening.
 
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/armor.jpg" >
