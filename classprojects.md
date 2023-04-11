@@ -71,7 +71,7 @@ _Spice for the Main Circuit_
 
 _Spice Test Bench_
 
-<img src="https://r3dotstone.github.io/portfolio/media/CIRC1.jpg" height="300" > <img src="https://r3dotstone.github.io/portfolio/media/CIRC2.jpeg" height="300" >
+<img src="https://r3dotstone.github.io/portfolio/media/CIRC1.jpg" height="300" /> <img src="https://r3dotstone.github.io/portfolio/media/CIRC2.jpeg" height="300" />
 
 _Components Soldered on a Custom Prototype Board_ 
 

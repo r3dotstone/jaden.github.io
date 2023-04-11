@@ -11,7 +11,7 @@ I designed the packaging of this mechanism to be easily laser cut in large quant
 
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaIso.png" >
 
-<img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaFront.png" > <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec1.png" > <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec2.png" >
+<img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaFront.png" /> <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec1.png" /> <img style="max-width: 200px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/genevaSec2.png" />
 
 ### Suped-Up Moped
 
@@ -26,7 +26,7 @@ _Here is my moped before modifications:_
 
 _Here is my moped in progress and after modifications:_
 
-<img style="max-width: auto; height: 300px; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedMotor1.jpg" > <img style="max-width: auto; height: 300px; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedMods1.jpg" > 
+<img style="max-width: auto; height: 300px; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedMotor1.jpg" /> <img style="max-width: auto; height: 300px; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedMods1.jpg" /> 
 
 <video style="max-height: 300px; width: auto;" controls>
     <source src="https://r3dotstone.github.io/portfolio/media/Moped/mopedAfter.mp4" type="video/mp4">
@@ -54,10 +54,7 @@ This project was spearheaded by a senior during the first year that I was involv
 
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractor1.jpg" >
 
-<p float="left">
-  <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorBox1.jpg" >
-  <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorCockpit2.jpg" >
-</p>
+<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorBox1.jpg" /> <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Tractor/tractorCockpit2.jpg" />
 
 %%_CAD images to come_%%
 
@@ -65,9 +62,9 @@ This project was spearheaded by a senior during the first year that I was involv
 
 Towards the end of eighth grade, I became obsessed with FPV quadcopters. From then on, I started researching and buying parts to build my own. The first was from a kit with a frame-integrated integrated PDB and an outdated flight controller. After having some fun with that, I grew frustrated with it's limited tunability and high weight. I went off on my own and started to build on full-carbon, PCB-stacked frames. The packaging for the system became much more difficult, but ultimatly it allowed for a much lighter system with minimal intertia (because most electronics were concentrated near the COG of the frame). While the wiring, soldering, and layout is challenging, I have continued to use this system and optimize it using a open-source flight-control software called Betaflight. Tuning the PID loop on my quadcopters has given me an intuitive sense of the effects of each term and has made learning about the gritty details exciting. Using spare parts from crashed quads, I have also experiemented with making foam-board RC planes. One of the most fun moments in the hobby was flying a single-propellar circle-plane with a rudderon-elevator control surfaces that I made for $3.
 
-<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Drone/drone.jpg" > <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Drone/drone2.jpg" >
+<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Drone/drone.jpg" /> <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Drone/drone2.jpg" />
 
-<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Drone/drone_top.jpg" > <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Drone/drone_side.jpg" >
+<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Drone/drone_top.jpg" /> <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Drone/drone_side.jpg" />
 
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Drone/plane.jpg" >
 
