@@ -32,6 +32,4 @@ During high school, my friend, my now-girlfriend, and I resurected our FIRST Rob
 
 During high school, a partner and I developed plans and a miniature prototype of an emergency, rapid-deployment, semi-permenant housing system, designed to utilize the space inside of a storage container. This was to compete in a Technology Student Association (TSA) competition in Connecticut, where we acheived third place. The concept was to have a flat-folding shelter that could possibly be erected with presurized air. The flattened units could be stacked vertically inside of a storage container. The core idea of this project--flattened, rigid, temporary housing--has potential to be useful, but significantly more refinement would need to be done to make it feasible.
 
-<img src="https://r3dotstone.github.io/portfolio/media/House/paperProto.jpg" height="300" /> <img src="https://r3dotstone.github.io/portfolio/media/House/finalFlattened.jpg" height="300" />
-
-<img src="https://r3dotstone.github.io/portfolio/media/House/drawing.jpg" height="300" >
+<img src="https://r3dotstone.github.io/portfolio/media/House/paperProto.jpg" height="300" /> <img src="https://r3dotstone.github.io/portfolio/media/House/finalFlattened.jpg" height="300" /> <img src="https://r3dotstone.github.io/portfolio/media/House/drawing.jpg" height="300" />
