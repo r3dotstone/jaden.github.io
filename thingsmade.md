@@ -19,16 +19,21 @@ I bought a moped during the summer of 2019, but I couldn't leave it stock.
 
 _Here is my moped before modifications:_
 
-<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedBefore.jpg" > <video style="max-height: 300px; width: auto;" controls >
+<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedBefore.jpg" > 
+
+<video style="max-height: 300px; width: auto;" controls >
     <source src="https://r3dotstone.github.io/portfolio/media/Moped/mopedBefore_CUT.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
 _Here is my moped in progress and after modifications:_
 
-<img style="max-width: auto; height: 300px; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedMotor1.jpg" /> <img style="max-width: auto; height: 300px; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedMods1.jpg" /> <video style="max-height: 300px; width: auto;" controls>
+<img style="max-width: auto; height: 300px; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedMotor1.jpg" /> <img style="max-width: auto; height: 300px; " src="https://r3dotstone.github.io/portfolio/media/Moped/mopedMods1.jpg" /> 
+
+<video style="max-height: 300px; width: auto;" controls>
     <source src="https://r3dotstone.github.io/portfolio/media/Moped/mopedAfter.mp4" type="video/mp4">
-    Your browser does not support the video tag. </video> 
+    Your browser does not support the video tag. 
+</video> 
 
 Modifications include:
 - Ported cylinder
