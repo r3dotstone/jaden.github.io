@@ -6,6 +6,44 @@ permalink: /classprojects/
 
 ## Here are Some of the Cool Things that I've Done in my Classes
 
+### ECE392: Robotics, Vision, and Control Independent Side
+
+#### Trajectory Planning
+
+<img src="https://r3dotstone.github.io/portfolio/media/quadGiant.png" height="300" />
+
+[Video coming soon]
+<video style="max-height: 300px; width: auto;" controls>
+    <source src="https://r3dotstone.github.io/portfolio/media/quadGiantVideo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video> 
+
+#### Path Planning
+
+Distance Transform 
+
+<img src="https://r3dotstone.github.io/portfolio/media/dxformXY.png" height="300" />
+
+<img src="https://r3dotstone.github.io/portfolio/media/dsformIso.png" height="300" />
+
+D*
+
+<img src="https://r3dotstone.github.io/portfolio/media/undilatedMap.png" height="300" /> <img src="https://r3dotstone.github.io/portfolio/media/dilatedMap.png" height="300" />
+
+<img src="https://r3dotstone.github.io/portfolio/media/quadDstar.png" height="300" />
+
+Kalman Filter
+
+<img src="https://r3dotstone.github.io/portfolio/media/unfilteredPositionKalman.png" height="300" />
+<img src="https://r3dotstone.github.io/portfolio/media/filteredPositionKalman.png" height="300" />
+<img src="https://r3dotstone.github.io/portfolio/media/errorUncertaintyKalman.png" height="300" />
+
+Range Finder Mapping
+
+[Video coming soon]
+
+
+
 ### ES302: Robotics Systems and Design
 This course was gave us a broad understanding of the different ways to control a robot. It focussed on real hardware and software integration, meaning that we also learned how to rigosously troubleshoot eratic platforms. Schemes that we implemented include: 
 - procedural control
