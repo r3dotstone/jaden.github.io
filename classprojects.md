@@ -30,13 +30,13 @@ D*
 
 <img src="https://r3dotstone.github.io/portfolio/media/quadDstar.png" height="300" />
 
-Kalman Filter
+#### Kalman Filter
 
 <img src="https://r3dotstone.github.io/portfolio/media/unfilteredPositionKalman.png" height="300" />
 <img src="https://r3dotstone.github.io/portfolio/media/filteredPositionKalman.png" height="300" />
 <img src="https://r3dotstone.github.io/portfolio/media/errorUncertaintyKalman.png" height="300" />
 
-Range Finder Mapping
+#### Range Finder Mapping
 
 [Video coming soon]
 
