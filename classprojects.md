@@ -22,9 +22,7 @@ permalink: /classprojects/
 
 Distance Transform 
 
-<img src="https://r3dotstone.github.io/portfolio/media/dxformXY.png" height="300" />
-
-<img src="https://r3dotstone.github.io/portfolio/media/dsformIso.png" height="300" />
+<img src="https://r3dotstone.github.io/portfolio/media/dxformXY.png" height="300" /> <img src="https://r3dotstone.github.io/portfolio/media/dxformIso.png" height="300" />
 
 D*
 
