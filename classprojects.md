@@ -7,10 +7,17 @@ permalink: /classprojects/
 ## Here are Some of the Cool Things that I've Done in my Classes
 
 ### ECE392: Robotics, Vision, and Control Independent Side
+A professor reached out to myself and a fellow integrative engineer (Peter Fabens '24) focussing in robotics because he wants to teach a robotics course in the coming years. We were tasked with reading 
+<a href="url">Peter Corke's</a> textbook, Robotics, Vision and Control, and collaborating on exrecises for every chapter to be adapted into labs for the course. Corke's textbook pairs with two freeware libraries: 
+<a href="https://github.com/petercorke/robotics-toolbox-matlab">Robotics Toolbox for MATLAB</a> and <a href="https://github.com/petercorke/machinevision-toolbox-matlab">Machine Vision Toolbox for MATLAB</a>. Detailed below are a selection of our demonstrations of critical robotics tools and algorithms, programmed in MATLAB and Simulink.
+
 
 #### Trajectory Planning
+In this example, the task is to navigate the aisles of the grocery store, Giant, with as a quadcopter. This is done by establishing waypoints the quadcopter needs to travel through, planning a multi-segment trajectory that maximizes the quadcopters speed, and passing that to a dynamic model of a quadcotper.
 
 <img src="https://r3dotstone.github.io/portfolio/media/quadGiant.png" height="300" />
+
+ _Orange is the planned path, while the path actually taken by the quadcopter with oscillations and wider turning radii_
 
 [Video coming soon]
 <video style="max-height: 300px; width: auto;" controls>
@@ -18,28 +25,53 @@ permalink: /classprojects/
     Your browser does not support the video tag.
 </video> 
 
-#### Path Planning
+_Live output of the dynamic model_
 
-Distance Transform 
+[Velocities coming soon]
+
+_Velocity vs. Time_
+
+#### Path Planning
+In a scenario where a robot needs to find a path from a start point to an end point, it must generate it's own waypoints.
 
 <img src="https://r3dotstone.github.io/portfolio/media/dxformXY.png" height="300" /> <img src="https://r3dotstone.github.io/portfolio/media/dxformIso.png" height="300" />
 
-D*
+_Distance transform using an occupancy grid_
 
-<img src="https://r3dotstone.github.io/portfolio/media/undilatedMap.png" height="300" /> <img src="https://r3dotstone.github.io/portfolio/media/dilatedMap.png" height="300" />
+ <div class="row">
+  <div class="column">
+    <img src="https://r3dotstone.github.io/portfolio/media/undilatedMap.png" height="300" />
+  </div>
+  <div class="column">
+    <img src="https://r3dotstone.github.io/portfolio/media/dilatedMap.png" height="300" />
+  </div>
+</div> 
+
+_Map dilation_
 
 <img src="https://r3dotstone.github.io/portfolio/media/quadDstar.png" height="300" />
 
+_Planning with D* using an occupancy grid_
+
 #### Kalman Filter
+Below is an example using the scenario of an autonomous vehicle driving along a road, undergoing a lane change. It periodically sees lane markers on the road and uses them as landmarks to update it's position estimate.
 
 <img src="https://r3dotstone.github.io/portfolio/media/unfilteredPositionKalman.png" height="300" />
+
+_Estimated position using just odometry, no Kalman filter_
+
 <img src="https://r3dotstone.github.io/portfolio/media/filteredPositionKalman.png" height="300" />
+
+_Estimated position using Kalman filter_
+
 <img src="https://r3dotstone.github.io/portfolio/media/errorUncertaintyKalman.png" height="300" />
 
+_Estimated error and uncertainty over time_
+
 #### Range Finder Mapping
+Without a map provided to a robot, it must use it's sensors to estimate the position of it's surroundings. Simulated below is a mobile robot modeled as a "unicycle". It is equipped with a laser range finder. All sensors on the robot are simulated with gaussian noise and a diagonal covariance.
 
 [Video coming soon]
-
 
 
 ### ES302: Robotics Systems and Design
