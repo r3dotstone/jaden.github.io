@@ -75,7 +75,7 @@ Without a map provided to a robot, it must use it's sensors to estimate the posi
     Your browser does not support the video tag.
 </video>
 
-_Green line--estimated position     Red line--real position     Blue dots--estimated map    Starts--real map_
+_Green line--estimated position     Red line--real position     Blue dots--estimated map    Stars--real map_
 
 ### ES302: Robotics Systems and Design
 This course was gave us a broad understanding of the different ways to control a robot. It focussed on real hardware and software integration, meaning that we also learned how to rigosously troubleshoot eratic platforms. Schemes that we implemented include: 
