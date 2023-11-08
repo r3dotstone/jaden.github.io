@@ -66,7 +66,10 @@ _Estimated error and uncertainty over time_
 #### Range Finder Mapping
 Without a map provided to a robot, it must use it's sensors to estimate the position of it's surroundings. Simulated below is a mobile robot modeled as a "unicycle". It is equipped with a laser range finder. All sensors on the robot are simulated with gaussian noise and a diagonal covariance.
 
-[Video coming soon]
+<video style="max-height: 300px; width: auto;" controls>
+    <source src="https://r3dotstone.github.io/portfolio/media/romiMapping.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 
 ### ES302: Robotics Systems and Design
