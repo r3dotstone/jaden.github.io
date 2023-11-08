@@ -21,7 +21,7 @@ In this example, the task is to navigate the aisles of the grocery store, Giant,
 
 [Video coming soon]
 <video style="max-height: 300px; width: auto;" controls>
-    <source src="https://r3dotstone.github.io/portfolio/media/quadGiantVideo.mp4" type="video/mp4">
+    <source src="https://r3dotstone.github.io/portfolio/media/quadGiant.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video> 
 
