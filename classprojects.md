@@ -8,18 +8,17 @@ permalink: /classprojects/
 
 ### ECE392: Robotics, Vision, and Control Independent Side
 A professor reached out to myself and a fellow integrative engineer (Peter Fabens '24) focussing in robotics because he wants to teach a robotics course in the coming years. We were tasked with reading 
-<a href="url">Peter Corke's</a> textbook, Robotics, Vision and Control, and collaborating on exrecises for every chapter to be adapted into labs for the course. Corke's textbook pairs with two freeware libraries: 
+<a href="https://petercorke.com/">Peter Corke's</a> textbook, Robotics, Vision and Control, and collaborating on exrecises for every chapter to be adapted into labs for the course. Corke's textbook pairs with two freeware libraries: 
 <a href="https://github.com/petercorke/robotics-toolbox-matlab">Robotics Toolbox for MATLAB</a> and <a href="https://github.com/petercorke/machinevision-toolbox-matlab">Machine Vision Toolbox for MATLAB</a>. Detailed below are a selection of our demonstrations of critical robotics tools and algorithms, programmed in MATLAB and Simulink.
 
 
 #### Trajectory Planning
-In this example, the task is to navigate the aisles of the grocery store, Giant, with as a quadcopter. This is done by establishing waypoints the quadcopter needs to travel through, planning a multi-segment trajectory that maximizes the quadcopters speed, and passing that to a dynamic model of a quadcotper.
+In this example, the task is to navigate the aisles of the grocery store, Giant, with as a quadcopter. This is done by establishing waypoints the quadcopter needs to travel through, planning a multi-segment trajectory that maximizes the quadcopters speed, and passing that to a dynamic model of a quadcotper. See the velocity vs. time graphs for a comparison between different trajectory algorithms.
 
 <img src="https://r3dotstone.github.io/portfolio/media/quadGiant.png" height="300" />
 
  _Orange is the planned path, while the path actually taken by the quadcopter with oscillations and wider turning radii_
 
-[Video coming soon]
 <video style="max-height: 300px; width: auto;" controls>
     <source src="https://r3dotstone.github.io/portfolio/media/quadGiant_cut.mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -27,7 +26,7 @@ In this example, the task is to navigate the aisles of the grocery store, Giant,
 
 _Live output of the dynamic model_
 
-[Velocities coming soon]
+<img src="https://r3dotstone.github.io/portfolio/media/tpoly.png" width="120" /> <img src="https://r3dotstone.github.io/portfolio/media/lspb.png" width="120" /> <img src="https://r3dotstone.github.io/portfolio/media/multiSeg.png" width="120" />
 
 _Velocity vs. Time_
 
@@ -47,6 +46,11 @@ _Map dilation_
 <img src="https://r3dotstone.github.io/portfolio/media/quadDstar.png" height="300" />
 
 _Planning with D* using an occupancy grid_
+
+#### Robotic Arm Kinematics
+Below are some clips of 2D and 3D robotic arms. The kinematics for the 2D arm has a closed form solution, so they are implemented without Corke's toolbox, however the 6-axis arm is implemented using numerical tools from the toolbox. The points for the Lafayette College logo were calculated from a vectorized version of a photo using <a href="https://spotify.github.io/coordinator/">this tool from Aliza Aufrichtig @ Spotify</a>.
+
+[clips to come]
 
 #### Kalman Filter
 Below is an example using the scenario of an autonomous vehicle driving along a road, undergoing a lane change. It periodically sees lane markers on the road and uses them as landmarks to update it's position estimate.
