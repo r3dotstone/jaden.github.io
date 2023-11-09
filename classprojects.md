@@ -50,7 +50,19 @@ _Planning with D* using an occupancy grid_
 #### Robotic Arm Kinematics
 Below are some clips of 2D and 3D robotic arms. The kinematics for the 2D arm has a closed form solution, so they are implemented without Corke's toolbox, however the 6-axis arm is implemented using numerical tools from the toolbox. The points for the Lafayette College logo were calculated from a vectorized version of a photo using <a href="https://spotify.github.io/coordinator/">this tool from Aliza Aufrichtig @ Spotify</a>.
 
-[clips to come]
+<video style="max-height: 300px; width: auto;" controls>
+    <source src="https://r3dotstone.github.io/portfolio/media/threeJoint.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video> 
+
+_2 joint planar arm with stabilized end effector_
+
+<video style="max-height: 300px; width: auto;" controls>
+    <source src="https://r3dotstone.github.io/portfolio/media/q6Axis.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video> 
+
+_Puma 560 model writing with Hershey characters_
 
 #### Kalman Filter
 Below is an example using the scenario of an autonomous vehicle driving along a road, undergoing a lane change. It periodically sees lane markers on the road and uses them as landmarks to update it's position estimate.

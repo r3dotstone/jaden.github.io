@@ -5,6 +5,19 @@ permalink: /thingsmade/
 ---
 ## Here Are Some Things That I've Made
 
+### Raspberry Pi Everything
+This is my Raspberry Pi 3B. It's my file server, local git repository, and general-use micro controller. I've configured it with port forwarding, so I ssh into it from anywhere with internet. It hosts a jupyter server and git repository for my controls lab, so my partner and I don't have to email files back and forth. 
+
+<img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/rpi.jpeg" >
+
+In the video, it is bound to a speaker in to pumpkin. There's also an arduino in there with a microphone and LED. There's a python script running on the RPi that plays a rotation of sounds on the speaker when a button is pushed. My housemates and I have only scared a few people, but it was a fun halloween project!
+
+<video style="max-height: 300px; width: auto;" controls >
+    <source src="https://r3dotstone.github.io/portfolio/media/Moped/lewis.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+
 ### Geneva Drive
 
 I designed the packaging of this mechanism to be easily laser cut in large quantities and assembled by people as a fun activity. This was done as ASME's contribution to Lafayette's Engineer's Week and replaced an older design that was too expensive, took much longer to produce, and was difficult for people to build quickely and easily. The design can certainly be improved to require fewer tools, be even more economical with materials, and use less finicky hardware.
