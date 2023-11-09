@@ -58,7 +58,7 @@ Below are some clips of 2D and 3D robotic arms. The kinematics for the 2D arm ha
 _2 joint planar arm with stabilized end effector_
 
 <video style="max-height: 300px; width: auto;" controls>
-    <source src="https://r3dotstone.github.io/portfolio/media/q6Axis.mp4" type="video/mp4">
+    <source src="https://r3dotstone.github.io/portfolio/media/6axis.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video> 
 

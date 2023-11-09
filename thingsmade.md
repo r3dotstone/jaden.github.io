@@ -6,14 +6,14 @@ permalink: /thingsmade/
 ## Here Are Some Things That I've Made
 
 ### Raspberry Pi Everything
-This is my Raspberry Pi 3B. It's my file server, local git repository, and general-use micro controller. I've configured it with port forwarding, so I ssh into it from anywhere with internet. It hosts a jupyter server and git repository for my controls lab, so my partner and I don't have to email files back and forth. 
+This is my Raspberry Pi 3B. It's my file server, local git repository, and general-use micro controller. I've configured it with port forwarding, so I can SSH into it from anywhere with internet. It hosts 500GB of files, a Jupyter server, and git repository for my controls lab, so my partner and I don't have to email files back and forth. 
 
 <img style="max-width: 500px; height: auto; " src="https://r3dotstone.github.io/portfolio/media/rpi.jpeg" >
 
-In the video, it is bound to a speaker in to pumpkin. There's also an arduino in there with a microphone and LED. There's a python script running on the RPi that plays a rotation of sounds on the speaker when a button is pushed. My housemates and I have only scared a few people, but it was a fun halloween project!
+This is Lewis (the pumpkin). There's a speaker, microphone, and LED inside of him. The RPi is connected with bluetooth to the speaker, so it can play a rotation of sounds when the button is pressed. I'll hopefully add an ultrasonic sensor soon. My housemates and I have only scared a few people, but it was a good halloween project!
 
 <video style="max-height: 300px; width: auto;" controls >
-    <source src="https://r3dotstone.github.io/portfolio/media/Moped/lewis.mp4" type="video/mp4">
+    <source src="https://r3dotstone.github.io/portfolio/media/lewis.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
