@@ -26,7 +26,7 @@ In this example, the task is to navigate the aisles of the grocery store, Giant,
 
 _Live output of the dynamic model_
 
-<img src="https://r3dotstone.github.io/portfolio/media/tpoly.png" width="120" /> <img src="https://r3dotstone.github.io/portfolio/media/lspb.png" width="120" /> <img src="https://r3dotstone.github.io/portfolio/media/multiSeg.png" width="120" />
+<img src="https://r3dotstone.github.io/portfolio/media/tpoly.png" width="140" /> <img src="https://r3dotstone.github.io/portfolio/media/lspb.png" width="140" /> <img src="https://r3dotstone.github.io/portfolio/media/multiSeg.png" width="140" />
 
 _Velocity vs. Time_
 
