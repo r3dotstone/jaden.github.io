@@ -15,35 +15,35 @@ A professor reached out to myself and a fellow integrative engineer (Peter Faben
 #### Trajectory Planning
 In this example, the task is to navigate the aisles of the grocery store, Giant, with as a quadcopter. This is done by establishing waypoints the quadcopter needs to travel through, planning a multi-segment trajectory that maximizes the quadcopters speed, and passing that to a dynamic model of a quadcotper. See the velocity vs. time graphs for a comparison between different trajectory algorithms.
 
-<img src="https://r3dotstone.github.io/portfolio/media/quadGiant.png" height="300" />
+<img src="https://r3dotstone.github.io/portfolio/media/quadGiant.png" width="600" />
 
  _Orange is the planned path, while the path actually taken by the quadcopter with oscillations and wider turning radii_
 
-<video style="max-height: 300px; width: auto;" controls>
+<video style="max-height: auto; width: 600px;" controls>
     <source src="https://r3dotstone.github.io/portfolio/media/quadGiant_cut.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video> 
 
 _Live output of the dynamic model_
 
-<img src="https://r3dotstone.github.io/portfolio/media/tpoly.png" width="140" /> <img src="https://r3dotstone.github.io/portfolio/media/lspb.png" width="140" /> <img src="https://r3dotstone.github.io/portfolio/media/multiSeg.png" width="140" />
+<img src="https://r3dotstone.github.io/portfolio/media/tpoly.png" width="200" /> <img src="https://r3dotstone.github.io/portfolio/media/lspb.png" width="200" /> <img src="https://r3dotstone.github.io/portfolio/media/multiSeg.png" width="200" />
 
 _Velocity vs. Time_
 
 #### Path Planning
 In a scenario where a robot needs to find a path from a start point to an end point, it must generate it's own waypoints.
 
-<img src="https://r3dotstone.github.io/portfolio/media/dxformXY.png" width="200" /><img src="https://r3dotstone.github.io/portfolio/media/dxformIso.png" width="200" />
+<img src="https://r3dotstone.github.io/portfolio/media/dxformXY.png" width="300" /><img src="https://r3dotstone.github.io/portfolio/media/dxformIso.png" width="300" />
 
 _Distance transform using an occupancy grid_
 
 
-<img src="https://r3dotstone.github.io/portfolio/media/undilatedMap.png" height="200" /><img src="https://r3dotstone.github.io/portfolio/media/dilatedMap.png" height="200" />
+<img src="https://r3dotstone.github.io/portfolio/media/undilatedMap.png" width="300" /><img src="https://r3dotstone.github.io/portfolio/media/dilatedMap.png" width="300" />
 
 
 _Map dilation_
 
-<img src="https://r3dotstone.github.io/portfolio/media/quadDstar.png" height="300" />
+<img src="https://r3dotstone.github.io/portfolio/media/quadDstar.png" width="600" />
 
 _Planning with D* using an occupancy grid_
 
