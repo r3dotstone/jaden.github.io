@@ -11,6 +11,17 @@ A professor reached out to myself and a fellow integrative engineer (Peter Faben
 <a href="https://petercorke.com/">Peter Corke's</a> textbook, Robotics, Vision and Control, and collaborating on exrecises for every chapter to be adapted into labs for the course. Corke's textbook pairs with two freeware libraries: 
 <a href="https://github.com/petercorke/robotics-toolbox-matlab">Robotics Toolbox for MATLAB</a> and <a href="https://github.com/petercorke/machinevision-toolbox-matlab">Machine Vision Toolbox for MATLAB</a>. Detailed below are a selection of our demonstrations of critical robotics tools and algorithms, programmed in MATLAB and Simulink.
 
+#### Final Project: RomiVision
+As a culmination of what we had learned, we decided to implement vison-based control on a real, mobile robot. This posed all new, hardware-related challenges, but we came out on top. Our project is called RomiVison. It uses a Raspberry Pi to piggyback on a Pololu Romi, and enable it to recognize and follow (or run away from) shapes. We used the Raspberry Pi to run a Pi camera and OpenCV, calculating the control outputs that the Arduino recieved over I2C. This project could use a better controller and has the capability to do impressive things, but it's meant to be a starting point for more advanced projects in future classes.
+
+You can read the <a href= "https://r3dotstone.github.io/portfolio/media/RomiVisionManual.docx" target="_blank">documentation here</a> and view the <a href= "https://github.com/r3dotstone/RomiVision" target="_blank">Git repository here</a>.
+
+<video style="max-height: auto; width: 600px;" controls>
+    <source src="https://r3dotstone.github.io/portfolio/media/RomiVisionDemo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video> 
+
+_Demonstration Video: Romi Follows Yellow Squares and Runs from Yellow Triangles_
 
 #### Trajectory Planning
 In this example, the task is to navigate the aisles of the grocery store, Giant, with as a quadcopter. This is done by establishing waypoints the quadcopter needs to travel through, planning a multi-segment trajectory that maximizes the quadcopters speed, and passing that to a dynamic model of a quadcotper. See the velocity vs. time graphs for a comparison between different trajectory algorithms.
